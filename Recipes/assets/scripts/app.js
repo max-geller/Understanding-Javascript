@@ -2,29 +2,37 @@
 
 // Trades
 let trade;
-let selectedTrade;
-function addTrade();
+
+function addTrade() {
+    const newTrade;
+};
 
 // Unions
 let union;
 let selectedUnion;
-function addUnion();
+function addUnion() {
+    const newUnion;
+};
 
 // Locals
 let local;
 let selectedLocal;
-function addLocal();
+function addLocal() {
+    const newLocal;
+};
 
 // Agreements
 let agreement;
-let selectedAgreement
+
 let currentAgreement;
 
 function addAgreement() {
     const newAgrement;
 };
 
-function getAgreement();
+function getAgreement() {
+    const selectedAgreement
+};
 
 function getCurretAgreement();
 
@@ -36,19 +44,4 @@ function addClassification();
 let straightTime;
 let overTime;
 let doubleTime;
-
-// Rates
-let baseRate;
-
-
-
-
-
-
-
-
-
-
-
-
 
